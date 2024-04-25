@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\student\\Desktop\\Pr3\\Pr3.csproj": {}
+    "C:\\Users\\student\\Desktop\\pr3\\Pr3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\student\\Desktop\\Pr3\\Pr3.csproj": {
+    "C:\\Users\\student\\Desktop\\pr3\\Pr3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\student\\Desktop\\Pr3\\Pr3.csproj",
+        "projectUniqueName": "C:\\Users\\student\\Desktop\\pr3\\Pr3.csproj",
         "projectName": "Pr3",
-        "projectPath": "C:\\Users\\student\\Desktop\\Pr3\\Pr3.csproj",
+        "projectPath": "C:\\Users\\student\\Desktop\\pr3\\Pr3.csproj",
         "packagesPath": "C:\\Users\\student\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\student\\Desktop\\Pr3\\obj\\",
+        "outputPath": "C:\\Users\\student\\Desktop\\pr3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
