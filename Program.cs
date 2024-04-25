@@ -8,10 +8,10 @@ if (Deistvie == "+")
 {
     Console.WriteLine(plus(A,B));
 }
-//else if (Deistvie == "-")
-//{
-//    Console.WriteLine(minus(A, B));
-//}
+else if (Deistvie == "-")
+{
+    Console.WriteLine(minus(A, B));
+}
 //else if (Deistvie == "*")
 //{
 //    Console.WriteLine(umnozhit(A, B));
@@ -24,10 +24,10 @@ double plus(double A, double B)
 {
     return (A + B);
 }
-//double minus(double A, double B)
-//{
-//    return (A - B);
-//}
+double minus(double A, double B)
+{
+    return (A - B);
+}
 //double umnozhit(double A, double B)
 //{
 //    return (A * B);
